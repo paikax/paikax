@@ -41,7 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuclearsherwin&show_icons=true&locale=en" alt="nuclearsherwin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuclearsherwin&" alt="nuclearsherwin" /></p>
+ <img align="center" alt="cool coding gif" width="1000" src="[https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/af/Malevolent_Shrine%27s_power_%28Anime%29.gif/revision/latest/scale-to-width/360?cb=20231117003507](https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif)">
 
-# My commits
-![snake gif](https://github.com/NuclearSherwin/NuclearSherwin/blob/output/github-contribution-grid-snake.gif)
 
